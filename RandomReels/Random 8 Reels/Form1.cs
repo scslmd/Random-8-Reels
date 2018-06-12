@@ -17,6 +17,26 @@ namespace Random_8_Reels
             // initialize array to sort the 8 reels
             int[] Reels = new int[] { 1, 2, 3, 4, 5, 6, 7, 8 };
 
+            RandomizeReels(Reels);
+
+            UpdateReelOrderInWindow(Reels);
+        }
+
+        private void UpdateReelOrderInWindow(int[] Reels)
+        {
+            // Don't make it complicated, just push the data into the text box.
+            textBox1.Text = Reels[0].ToString();
+            textBox2.Text = Reels[1].ToString();
+            textBox3.Text = Reels[2].ToString();
+            textBox4.Text = Reels[3].ToString();
+            textBox5.Text = Reels[4].ToString();
+            textBox6.Text = Reels[5].ToString();
+            textBox7.Text = Reels[6].ToString();
+            textBox8.Text = Reels[7].ToString();
+        }
+
+        private static void RandomizeReels(int[] Reels)
+        {
             // randomize seed
             var rnd = new Random();
 
@@ -27,16 +47,6 @@ namespace Random_8_Reels
                 Reels[i] = Reels[swapPositions];
                 Reels[swapPositions] = tempValue;
             }
-
-            // Don't make it complicated, just push the data into the text box.
-            textBox1.Text = Reels[0].ToString();
-            textBox2.Text = Reels[1].ToString();
-            textBox3.Text = Reels[2].ToString();
-            textBox4.Text = Reels[3].ToString();
-            textBox5.Text = Reels[4].ToString();
-            textBox6.Text = Reels[5].ToString();
-            textBox7.Text = Reels[6].ToString();
-            textBox8.Text = Reels[7].ToString();
         }
 
         private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

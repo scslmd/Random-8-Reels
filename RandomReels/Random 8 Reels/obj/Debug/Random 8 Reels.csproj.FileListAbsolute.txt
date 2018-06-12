@@ -9,3 +9,14 @@ c:\users\steven luh\source\repos\RandomReels\Random 8 Reels\obj\Debug\Random 8 R
 c:\users\steven luh\source\repos\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.exe
 c:\users\steven luh\source\repos\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.pdb
 c:\users\steven luh\source\repos\RandomReels\Random 8 Reels\obj\Debug\Random_8_Reels.Resource1.resources
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.csprojAssemblyReference.cache
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random_8_Reels.Form1.resources
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random_8_Reels.Resource1.resources
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.csproj.GenerateResource.cache
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.exe
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.pdb
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\bin\Debug\Random 8 Reels.exe.config
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\bin\Debug\Random 8 Reels.exe
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\bin\Debug\Random 8 Reels.pdb
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random_8_Reels.Properties.Resources.resources
+J:\Projects\RandomReels\RandomReels\Random 8 Reels\obj\Debug\Random 8 Reels.csproj.CoreCompileInputs.cache

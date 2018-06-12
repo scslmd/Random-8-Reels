@@ -69,5 +69,15 @@ namespace Random_8_Reels.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kisspng_film_reel_clip_art_film_reel_cliparts1 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng-film-reel-clip-art-film-reel-cliparts1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

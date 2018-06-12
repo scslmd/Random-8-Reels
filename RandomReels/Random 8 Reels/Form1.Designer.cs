@@ -161,7 +161,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::Random_8_Reels.Properties.Resources.kisspng_film_reel_clip_art_film_reel_cliparts;
+            this.pictureBox1.Image = global::Random_8_Reels.Resource1.FilmReel;
             this.pictureBox1.Location = new System.Drawing.Point(24, 116);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(63, 65);
